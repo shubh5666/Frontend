@@ -1,0 +1,15 @@
+.product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .product img {
+    max-width: 100px;
+    margin-right: 15px;
+  }
+  
+  .cart-badge {
+    font-size: 1.2em;
+  }
+  
